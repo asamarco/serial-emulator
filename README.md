@@ -1,5 +1,4 @@
-PierinPIC18
-===========
+serial-emulator
+==========
 
-PierinPIC18 is an unofficial MPLABX base project for the PierinPIC18 
-development board by Sangon (www.sangon.it)
+Serial communication over USB with PierinPIC18 (CDC virtualCOM)
